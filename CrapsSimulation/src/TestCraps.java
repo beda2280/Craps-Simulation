@@ -17,7 +17,6 @@
  * @author Eric Level
  * 
  */
-
 import java.util.ArrayList;
 import edu.princeton.cs.introcs.*;
 
