@@ -91,6 +91,9 @@ public class PlayWithInheritance
 		{
 			// your [H2-9] code goes here
 			// here we go
+			Die die;
+			die = new CrookedDie1();
+			StdOut.print(die.testStatic());
 		}
 
 		StdOut.println();
