@@ -46,4 +46,10 @@ public class Die
 	{
 		return msg + this.toString();
 	}
+	
+	public static string TestStatic()
+	{
+		return "CrookedDiea1.testStatic()";
+	}
+	}
 }
